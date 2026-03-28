@@ -45,8 +45,8 @@ Discounted Cash Flow (DCF) is a valuation method used to estimate the value of a
 
 ```
 dcf-valuation-model
-│-- dcf_dashboard.py
-│-- DCF_Model.csv
+│-- AP_Tesla_DCF.xlsx
+│-- AP_Tesla_dcf_dashboard.py
 │-- README.md
 ```
 
