@@ -107,8 +107,6 @@ This model is for educational purposes only and should not be considered financi
 
 ---
 
-## Author
-
-**Anushka Pandey**
+## Author - **Anushka Pandey**
 Feel free to connect and share feedback!
 
